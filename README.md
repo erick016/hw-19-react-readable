@@ -1,2 +1,3 @@
 # hw-19-react-readable
-Readable
+
+Readable for instructor; original link wasn't readable.
